@@ -17,6 +17,7 @@ var REQUIRED_FILES = [
   'about.html',
   'account.html',
   'index.html',
+  'Documantation.html',
   'manifest.json',
   'sw.js',
   'assets/favicon.ico',
